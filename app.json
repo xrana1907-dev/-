@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "রান্নাঘর",
+    "slug": "rannaghor",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.rannaghor.app",
+      "versionCode": 1
+    },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
